@@ -24,15 +24,19 @@ Product Card Generator is a web application that uses AI to generate attractive 
 ## Project Structure
 
 product-card-ai/
+
 ├── server/
-│   └── index.js
+│    └── index.js
+
 ├── src/
 │   ├── App.jsx
 │   ├── App.css
 │   └── index.css
+
 ├── .env
 ├── .gitignore
 ├── package.json
+
 └── README.md
 
 
