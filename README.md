@@ -50,9 +50,11 @@ npm install
 ### 3. Configure environment variables
 Create a `.env` file in the project root:
 
+```env
 GROQ_API_KEY=your_groq_api_key
 GROQ_MODEL=openai/gpt-oss-20b
 PORT=5000
+```
 
 
 Replace `your_groq_api_key` with your own API key. Never commit this file to a public repository.
